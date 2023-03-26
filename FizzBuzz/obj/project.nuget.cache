@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PqEYilGmUkvwbvOddCobe4woneXbwLzZdv+NP0cdn80/UxifmsU3pkwiz55c9nDO1S3ZkodwYuI03tSpNhgtdw==",
+  "success": true,
+  "projectFilePath": "/home/nyvall/RiderProjects/FizzBuzz/FizzBuzz/FizzBuzz.fsproj",
+  "expectedPackageFiles": [
+    "/home/nyvall/.nuget/packages/fsharp.core/7.0.0/fsharp.core.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
